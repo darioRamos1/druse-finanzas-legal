@@ -7,4 +7,6 @@ Política de privacidad y condiciones de uso de la app Android **Druse Finanzas*
 
 Estas páginas se generan desde el repositorio de la app (`npm run legal`); no se editan a mano aquí.
 
+La fuente Manrope (`recursos/manrope-variable.ttf`) se distribuye con la licencia SIL Open Font License (`recursos/OFL.txt`). Las capturas usan datos ficticios.
+
 Contacto: druse.contacto@gmail.com
